@@ -7,10 +7,10 @@ It does not use Accenture logos, photographs, client cases, business figures or 
 CUSTOMIZE
 1. Open index.html in VS Code.
 2. Find const EMPRESA and fill in nome (company name) and email.
-3. Replace the remaining Your Company occurrences in the HTML, including the
-   fallback text and title. Update the meta description as appropriate.
+3. The company name is set to Q4Sure. Update the meta description as appropriate.
 4. Review the services and tools to reflect your company's actual offering.
-5. To add your logo, replace the symbol and name inside the .brand links.
+5. The supplied Q4Sure logo is embedded in the header and footer.
+   No separate image upload is needed.
 
 PUBLISH TO YOUR HOST
 1. Extract the ZIP on your computer.
